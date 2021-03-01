@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.android.launcher3.lineage.icon;
+package com.android.launcher3.mokee.icon;
 
 
 import static android.graphics.Paint.DITHER_FLAG;
@@ -44,13 +44,13 @@ import androidx.annotation.NonNull;
 
 import com.android.launcher3.icons.BaseIconFactory;
 
-public class LineageIconFactory /* extends BaseIconFactory  */{
+public class MoKeeIconFactory /* extends BaseIconFactory  */{
 /*
     private final Context mContext;
     private final PackageManager mPm;
     private final IconPackStore mIconPackStore;
 
-    public LineageIconFactory(Context context) {
+    public MoKeeIconFactory(Context context) {
         mContext = context;
         mPm = context.getPackageManager();
         mIconPackStore = new IconPackStore(context);

@@ -49,7 +49,7 @@ import androidx.annotation.Nullable;
 import androidx.annotation.VisibleForTesting;
 
 import com.android.launcher3.graphics.IconShape;
-import com.android.launcher3.lineage.icon.IconPackStore;
+import com.android.launcher3.mokee.icon.IconPackStore;
 import com.android.launcher3.util.ConfigMonitor;
 import com.android.launcher3.util.DefaultDisplay;
 import com.android.launcher3.util.DefaultDisplay.Info;

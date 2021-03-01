@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.android.launcher3.lineage.icon.providers;
+package com.android.launcher3.mokee.icon.providers;
 
 import android.content.Context;
 import android.content.ComponentName;
@@ -24,8 +24,8 @@ import android.util.ArrayMap;
 import android.util.Log;
 
 import com.android.launcher3.Utilities;
-import com.android.launcher3.lineage.icon.IconPack;
-import com.android.launcher3.lineage.icon.IconPackStore;
+import com.android.launcher3.mokee.icon.IconPack;
+import com.android.launcher3.mokee.icon.IconPackStore;
 
 import org.xmlpull.v1.XmlPullParser;
 

@@ -49,10 +49,10 @@ import com.android.launcher3.LauncherFiles;
 import com.android.launcher3.R;
 import com.android.launcher3.Utilities;
 import com.android.launcher3.config.FeatureFlags;
-import com.android.launcher3.lineage.LineageUtils;
-import com.android.launcher3.lineage.icon.IconPackStore;
-import com.android.launcher3.lineage.icon.IconPackSettingsActivity;
-import com.android.launcher3.lineage.trust.TrustAppsActivity;
+import com.android.launcher3.mokee.MoKeeUtils;
+import com.android.launcher3.mokee.icon.IconPackStore;
+import com.android.launcher3.mokee.icon.IconPackSettingsActivity;
+import com.android.launcher3.mokee.trust.TrustAppsActivity;
 import com.android.launcher3.uioverrides.plugins.PluginManagerWrapper;
 import com.android.launcher3.util.SecureSettingsObserver;
 
@@ -248,11 +248,11 @@ public class SettingsActivity extends FragmentActivity
                             PluginManagerWrapper.hasPlugins(getContext());
 
                 case KEY_MINUS_ONE:
-                    return LineageUtils.isPackageEnabled(getActivity(), SEARCH_PACKAGE);
+                    return MoKeeUtils.isPackageEnabled(getActivity(), SEARCH_PACKAGE);
 
                 case KEY_TRUST_APPS:
                     preference.setOnPreferenceClickListener(p -> {
-                        LineageUtils.showLockScreen(getActivity(),
+                        MoKeeUtils.showLockScreen(getActivity(),
                                 getString(R.string.trust_apps_manager_name), () -> {
                             Intent intent = new Intent(getActivity(), TrustAppsActivity.class);
                             startActivity(intent);

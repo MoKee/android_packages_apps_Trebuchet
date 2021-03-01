@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.android.launcher3.lineage.icon;
+package com.android.launcher3.mokee.icon;
 
 import android.content.ComponentName;
 import android.content.Context;
@@ -33,7 +33,7 @@ import android.graphics.drawable.BitmapDrawable;
 import android.graphics.drawable.Drawable;
 import android.text.TextUtils;
 
-import com.android.launcher3.lineage.icon.providers.IconPackProvider;
+import com.android.launcher3.mokee.icon.providers.IconPackProvider;
 
 import java.util.ArrayList;
 import java.util.List;

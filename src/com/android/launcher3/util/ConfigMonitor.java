@@ -28,7 +28,7 @@ import android.graphics.Point;
 import android.util.Log;
 
 import com.android.launcher3.Utilities;
-import com.android.launcher3.lineage.icon.IconPackStore;
+import com.android.launcher3.mokee.icon.IconPackStore;
 
 import java.util.function.Consumer;
 

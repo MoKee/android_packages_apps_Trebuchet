@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.android.launcher3.lineage.trust;
+package com.android.launcher3.mokee.trust;
 
 import android.content.Intent;
 import android.content.pm.PackageManager;
@@ -24,8 +24,8 @@ import android.os.Build;
 
 import androidx.annotation.NonNull;
 
-import com.android.launcher3.lineage.trust.db.TrustComponent;
-import com.android.launcher3.lineage.trust.db.TrustDatabaseHelper;
+import com.android.launcher3.mokee.trust.db.TrustComponent;
+import com.android.launcher3.mokee.trust.db.TrustDatabaseHelper;
 
 import java.util.ArrayList;
 import java.util.Collections;

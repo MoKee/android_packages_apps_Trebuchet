@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.android.launcher3.lineage.trust;
+package com.android.launcher3.mokee.trust;
 
 import android.app.ActionBar;
 import android.app.Activity;
@@ -37,14 +37,14 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.android.launcher3.LauncherAppState;
 import com.android.launcher3.R;
 import com.android.launcher3.Utilities;
-import com.android.launcher3.lineage.LineageUtils;
-import com.android.launcher3.lineage.trust.db.TrustComponent;
-import com.android.launcher3.lineage.trust.db.TrustDatabaseHelper;
+import com.android.launcher3.mokee.MoKeeUtils;
+import com.android.launcher3.mokee.trust.db.TrustComponent;
+import com.android.launcher3.mokee.trust.db.TrustDatabaseHelper;
 
 import java.util.List;
 
-import static com.android.launcher3.lineage.trust.db.TrustComponent.Kind.HIDDEN;
-import static com.android.launcher3.lineage.trust.db.TrustComponent.Kind.PROTECTED;
+import static com.android.launcher3.mokee.trust.db.TrustComponent.Kind.HIDDEN;
+import static com.android.launcher3.mokee.trust.db.TrustComponent.Kind.PROTECTED;
 
 public class TrustAppsActivity extends Activity implements
         TrustAppsAdapter.Listener,
@@ -75,7 +75,7 @@ public class TrustAppsActivity extends Activity implements
         mLoadingView.setVisibility(View.VISIBLE);
         mProgressBar = findViewById(R.id.hidden_apps_progress_bar);
 
-        final boolean hasSecureKeyguard = LineageUtils.hasSecureKeyguard(this);
+        final boolean hasSecureKeyguard = MoKeeUtils.hasSecureKeyguard(this);
         mAdapter = new TrustAppsAdapter(this, hasSecureKeyguard);
         mDbHelper = TrustDatabaseHelper.getInstance(this);
 

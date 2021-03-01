@@ -38,8 +38,8 @@ import com.android.launcher3.icons.BitmapInfo.Extender;
 import com.android.launcher3.pm.UserCache;
 import com.android.launcher3.util.ComponentKey;
 import com.android.launcher3.util.SafeCloseable;
-import com.android.launcher3.lineage.icon.IconPack;
-import com.android.launcher3.lineage.icon.providers.IconPackProvider;
+import com.android.launcher3.mokee.icon.IconPack;
+import com.android.launcher3.mokee.icon.providers.IconPackProvider;
 
 import java.util.Calendar;
 import java.util.function.BiConsumer;

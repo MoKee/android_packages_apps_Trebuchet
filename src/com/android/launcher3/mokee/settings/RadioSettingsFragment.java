@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.launcher3.lineage.settings;
+package com.android.launcher3.mokee.settings;
 
 import android.content.Context;
 import android.os.Bundle;
