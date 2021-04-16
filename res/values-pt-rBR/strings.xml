@@ -18,20 +18,20 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="work_folder_name">Trabalho</string>
-    <string name="activity_not_found">A aplicação não está instalada.</string>
-    <string name="home_screen">Ecrã Principal</string>
+    <string name="activity_not_found">O aplicativo não está instalado.</string>
+    <string name="home_screen">Tela inicial</string>
     <string name="notifications_header">Notificações</string>
     <string name="all_apps_home_button_label">Casa</string>
     <string name="remove_drop_target_label">Remover</string>
-    <string name="app_info_drop_target_label">Inf. da aplicação</string>
-    <string name="gadget_setup_text">Configuração</string>
+    <string name="app_info_drop_target_label">Informações do aplicativo</string>
+    <string name="gadget_setup_text">Configurar</string>
     <string name="widget_button_text">Widgets</string>
-    <string name="wallpaper_button_text">Imagens de fundo</string>
-    <string name="notification_dots_desc_on">Ligada</string>
-    <string name="notification_dots_desc_off">Desativado</string>
+    <string name="wallpaper_button_text">Papéis de Parede</string>
+    <string name="notification_dots_desc_on">Ativado</string>
+    <string name="notification_dots_desc_off">Desligado</string>
     <string name="package_state_unknown">Desconhecido</string>
     <string name="abandoned_clean_this">Remover</string>
-    <string name="abandoned_search">Pesquisar</string>
+    <string name="abandoned_search">Procurar</string>
     <string name="undo">Desfazer</string>
     <string name="action_resize">Redimensionar</string>
     <string name="action_deep_shortcut">Atalhos</string>
@@ -39,6 +39,6 @@
     <string name="accessibility_close">Fechar</string>
     <string name="all_apps_personal_tab">Pessoal</string>
     <string name="all_apps_work_tab">Trabalho</string>
-    <string name="work_profile_edu_next">Seguinte</string>
-    <string name="work_profile_edu_accept">Percebi</string>
+    <string name="work_profile_edu_next">Próxima</string>
+    <string name="work_profile_edu_accept">Entendi</string>
 </resources>
