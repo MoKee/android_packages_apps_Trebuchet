@@ -18,5 +18,14 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="work_folder_name">ئىش</string>
+    <string name="all_apps_home_button_label">باش ئېكران</string>
+    <string name="notification_dots_desc_on">ئوچۇق</string>
+    <string name="notification_dots_desc_off">تاقاق</string>
+    <string name="package_state_unknown">يوچۇن</string>
+    <string name="abandoned_search">ئىزدە</string>
+    <string name="undo">يېنىۋال</string>
+    <string name="accessibility_close">تاقاش</string>
+    <string name="all_apps_personal_tab">شەخسىي</string>
     <string name="all_apps_work_tab">ئىش</string>
+    <string name="work_profile_edu_next">كېيىنكى</string>
 </resources>

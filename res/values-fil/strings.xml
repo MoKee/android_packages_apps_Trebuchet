@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+* Copyright (C) 2008 The Android Open Source Project
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+*      http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="work_folder_name">Gawain</string>
+    <string name="activity_not_found">Hindi naka-install ang app.</string>
+    <string name="home_screen">Home screen</string>
+    <string name="all_apps_home_button_label">Tahanan</string>
+    <string name="remove_drop_target_label">Tanggalin</string>
+    <string name="app_info_drop_target_label">Impormasyon ng App</string>
+    <string name="gadget_setup_text">Setup</string>
+    <string name="widget_button_text">Mga Widget</string>
+    <string name="wallpaper_button_text">Mga Wallpaper</string>
+    <string name="notification_dots_desc_on">Ang device ay nakabukas</string>
+    <string name="notification_dots_desc_off">Patay</string>
+    <string name="package_state_unknown">Hindi alam</string>
+    <string name="abandoned_clean_this">Tanggalin</string>
+    <string name="abandoned_search">Hanapin</string>
+    <string name="undo">Ibalik sa dati</string>
+    <string name="action_resize">Resize</string>
+    <string name="action_deep_shortcut">Mga shortcut</string>
+    <string name="action_dismiss_notification">I-dismiss</string>
+    <string name="accessibility_close">Isara</string>
+    <string name="all_apps_personal_tab">Personal</string>
+    <string name="all_apps_work_tab">Gawain</string>
+    <string name="work_profile_edu_next">Susunod</string>
+</resources>
