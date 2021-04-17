@@ -133,5 +133,6 @@ Mae\'n bosib i ti ei dynnu neu i chwilio am a gosod yr ap dy hun.    </string>
     <string name="all_apps_personal_tab">Personol</string>
     <string name="all_apps_work_tab">Gwaith</string>
     <string name="work_profile_toggle_label">Proffil gwaith</string>
+    <string name="work_profile_edu_next">Nesaf</string>
     <string name="remote_action_failed">Methiant: <xliff:g id="what" example="Pause">%1$s</xliff:g></string>
 </resources>

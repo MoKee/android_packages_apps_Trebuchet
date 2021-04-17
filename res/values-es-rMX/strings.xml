@@ -45,10 +45,10 @@
     <string name="all_apps_button_label">Lista de aplicaciones</string>
     <string name="all_apps_button_personal_label">Lista de aplicaciones personales</string>
     <string name="all_apps_button_work_label">Lista de aplicaciones del trabajo</string>
-    <string name="all_apps_home_button_label">Inicio</string>
+    <string name="all_apps_home_button_label">Casa</string>
     <string name="remove_drop_target_label">Quitar</string>
     <string name="uninstall_drop_target_label">Desinstalar</string>
-    <string name="app_info_drop_target_label">Información de la aplicación</string>
+    <string name="app_info_drop_target_label">Datos de aplicación</string>
     <string name="install_drop_target_label">Instalar</string>
     <string name="dismiss_prediction_label">No sugerir aplicación</string>
     <string name="pin_prediction">Fijar predicción</string>
@@ -86,8 +86,8 @@
     <string name="allow_rotation_title">Permitir rotación de la pantalla de inicio</string>
     <string name="allow_rotation_desc">Al girar el teléfono</string>
     <string name="notification_dots_title">Puntos de notificación</string>
-    <string name="notification_dots_desc_on">Activados</string>
-    <string name="notification_dots_desc_off">Desactivadas</string>
+    <string name="notification_dots_desc_on">Sí</string>
+    <string name="notification_dots_desc_off">Apagar</string>
     <string name="title_missing_notification_access">Se necesita acceso a las notificaciones</string>
     <string name="msg_missing_notification_access">Para mostrar puntos de notificación, activa las notificaciones de <xliff:g id="NAME">%1$s</xliff:g></string>
     <string name="title_change_settings">Cambiar ajustes</string>
@@ -128,16 +128,16 @@
     <string name="widget_resized">Se ha modificado el tamaño del widget a <xliff:g id="NUMBER_0">%1$s</xliff:g> de ancho y <xliff:g id="NUMBER_1">%2$s</xliff:g> de alto</string>
     <string name="action_deep_shortcut">Accesos directos</string>
     <string name="shortcuts_menu_with_notifications_description">Accesos directos y notificaciones</string>
-    <string name="action_dismiss_notification">Cerrar</string>
+    <string name="action_dismiss_notification">Descartar</string>
     <string name="accessibility_close">Cerrar</string>
     <string name="notification_dismissed">Notificación ignorada</string>
-    <string name="all_apps_personal_tab">Personal</string>
+    <string name="all_apps_personal_tab">Datos personales</string>
     <string name="all_apps_work_tab">Trabajo</string>
     <string name="work_profile_toggle_label">Perfil de trabajo</string>
     <string name="work_profile_edu_personal_apps">Los datos personales están separados y ocultos de las aplicaciones de trabajo</string>
     <string name="work_profile_edu_work_apps">Tu administrador de TI puede ver tus aplicaciones y datos de trabajo</string>
     <string name="work_profile_edu_next">Siguiente</string>
-    <string name="work_profile_edu_accept">Listo</string>
+    <string name="work_profile_edu_accept">¡Entendido!</string>
     <string name="work_apps_paused_title">El perfil de trabajo está en pausa</string>
     <string name="work_apps_paused_body">Las aplicaciones de trabajo no pueden enviarte notificaciones, gastar batería ni acceder a tu ubicación</string>
     <string name="work_apps_paused_content_description">El perfil de trabajo está en pausa. Las aplicaciones de trabajo no pueden enviarte notificaciones, consumir tu batería ni acceder a tu ubicación</string>

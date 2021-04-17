@@ -62,6 +62,7 @@
     <string name="folder_renamed">Chaidh ainm ùr <xliff:g id="name" example="Games">%1$s</xliff:g> a chur air a’ phasgan</string>
     <string name="widget_button_text">Widgets</string>
     <string name="wallpaper_button_text">Pàipearan-balla</string>
+    <string name="notification_dots_desc_off">Dheth</string>
     <string name="notification_dots_service_title">Seall puingean nam brathan</string>
     <string name="package_state_unknown">Chan eil fhios</string>
     <string name="abandoned_clean_this">Thoir air falbh</string>
@@ -95,8 +96,10 @@
     <string name="widget_resized">Chaidh a’ widget ath-mheudachadh gu leud <xliff:g id="number" example="2">%1$s</xliff:g> ’s àirde <xliff:g id="number" example="1">%2$s</xliff:g></string>
     <string name="shortcuts_menu_with_notifications_description">Ath-ghoiridean is brathan
     </string>
+    <string name="action_dismiss_notification">Leig seachad</string>
     <string name="accessibility_close">Dùin</string>
     <string name="all_apps_personal_tab">Pearsanta</string>
     <string name="all_apps_work_tab">Obair</string>
     <string name="work_profile_toggle_label">Pròifil na h-obrach</string>
+    <string name="work_profile_edu_next">Air adhart</string>
 </resources>

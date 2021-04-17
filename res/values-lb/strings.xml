@@ -18,6 +18,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">Launcher3</string>
+    <string name="work_folder_name">Aarbecht</string>
     <string name="activity_not_found">D\'App ass net installéiert.</string>
     <string name="activity_not_available">App ass net disponibel</string>
     <string name="safemode_shortcut_error">Erofgelueden App am séchere Modus desaktivéiert</string>
@@ -46,10 +47,17 @@
     <string name="folder_renamed">Dossier ëmbenannt a(n) <xliff:g id="name" example="Games">%1$s</xliff:g></string>
     <string name="widget_button_text">Widgeten</string>
     <string name="wallpaper_button_text">Hannergrondbiller</string>
+    <string name="notification_dots_desc_on">Un</string>
+    <string name="notification_dots_desc_off">Aus</string>
     <string name="package_state_unknown">Onbekannt</string>
     <string name="abandoned_clean_this">Ewechhuelen</string>
     <string name="abandoned_search">Sichen</string>
     <string name="abandoned_promises_title">Dës App ass net installéiert</string>
     <string name="abandoned_promise_explanation">D\'App fir dëst Symbol ass net installéiert. Du kanns et läschen, oder no der App sichen a se manuell installéieren.</string>
     <string name="action_add_to_workspace">Op de Startschierm setzen</string>
+    <string name="undo">Réckgängeg maachen</string>
+    <string name="accessibility_close">Zoumaachen</string>
+    <string name="all_apps_personal_tab">Perséinlech</string>
+    <string name="all_apps_work_tab">Aarbecht</string>
+    <string name="work_profile_edu_next">Weider</string>
 </resources>
