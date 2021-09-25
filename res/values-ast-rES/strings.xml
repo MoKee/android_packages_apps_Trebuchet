@@ -23,7 +23,6 @@
     <string name="activity_not_available">L\'aplicación nun ta disponible</string>
     <string name="safemode_shortcut_error">L\'aplicación baxada ta desactivada nel mou seguru</string>
     <string name="safemode_widget_error">Los widgets tán desactivaos nel mou seguru</string>
-    <string name="home_screen">Pantalla d\'aniciu</string>
     <string name="long_press_widget_to_add">Ten primío pa coyer un widget.</string>
     <string name="widget_dims_format">%1$d \u00d7 %2$d</string>
     <string name="long_press_shortcut_to_add">Ten primío &amp; pa coyer un atayu.</string>
@@ -63,8 +62,6 @@
     <string name="wallpaper_button_text">Fondos de pantalla</string>
     <string name="allow_rotation_title">Permitir la rotación de la Pantalla d\'aniciu</string>
     <string name="notification_dots_title">Puntos de notificación</string>
-    <string name="notification_dots_desc_on">Sí</string>
-    <string name="notification_dots_desc_off">Non</string>
     <string name="title_missing_notification_access">Necesítase accesu a notificaciones</string>
     <string name="msg_missing_notification_access">P\'amosar los Puntos de Notificación, encience l\'app de notificaciones pa <xliff:g id="name" example="My App">%1$s</xliff:g></string>
     <string name="title_change_settings">Camudar axustes</string>
@@ -100,11 +97,11 @@
     <string name="action_decrease_height">Amenorgar altor</string>
     <string name="widget_resized">Redimensionóse\'l widget al anchor <xliff:g id="number" example="2">%1$s</xliff:g> altor <xliff:g id="number" example="1">%2$s</xliff:g></string>
     <string name="shortcuts_menu_with_notifications_description">Atayos y avisos    </string>
-    <string name="action_dismiss_notification">Escartar</string>
     <string name="accessibility_close">Zarrar</string>
     <string name="all_apps_personal_tab">Personal</string>
     <string name="all_apps_work_tab">Trabayu</string>
     <string name="work_profile_toggle_label">Perfil de trabayu</string>
     <string name="work_profile_edu_personal_apps">Los datos personales sepártense y anúbrense de les aplicaciones del trabayu</string>
     <string name="work_profile_edu_next">Siguiente</string>
+    <string name="work_apps_paused_title">El perfil de trabayu ta en posa</string>
 </resources>
